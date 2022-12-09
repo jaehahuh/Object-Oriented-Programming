@@ -2,4 +2,4 @@
 
 Program language : C++
 
-These are homework and projects that I did in C++ class.
+These are homework and projects that I did in object oriented programming class.
