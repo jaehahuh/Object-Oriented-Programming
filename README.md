@@ -1,2 +1,5 @@
 # Object-Oriented-Programming
-C++
+
+Program language : C++
+
+These are homework and projects that I did in class.
